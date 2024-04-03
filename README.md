@@ -2,7 +2,7 @@
 - 👀 I’m interested in Immunology, Bioengineering, Data Analysis & everything DIY
 - 🌱 I’m currently learning Immunology research & data analysis
 - 💞️ I’m looking to collaborate on protocol optimization, tool development & utilizaiton, troubleshooting 
-- 📫 How to reach me linkedin.com/in/mikiashwt
+- 📫 How to reach me www.linkedin.com/in/mikiashwt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can whistle 7 different ways
 
