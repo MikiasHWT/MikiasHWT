@@ -19,6 +19,7 @@ Projects to be shared
 - RaspberryPi projects
 - Pygame games (Flappy bird, Pong)
 - 3D printing projects
+- DIVA experimental template metadata-autopopulate
 
 <!---
 MikiasHWT/MikiasHWT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
