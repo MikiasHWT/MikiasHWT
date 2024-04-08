@@ -5,8 +5,8 @@
 - 📫 How to reach through [Linkedin](https://www.linkedin.com/in/mikiashwt/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can whistle 7 different ways
-- 
-# Check out my [Personal Website](https://mikiashwt.github.io/)
+
+# Check out my [Personal Website](https://www.mikiashwt.com/)
 
 Projects to be shared
 - Characterization and validation of humanized mouse models.
