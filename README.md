@@ -22,6 +22,7 @@ Projects to be shared
 - Pygame games (Flappy bird, Pong)
 - 3D printing projects
 - DIVA experimental template metadata-autopopulate
+- 3D printed microtube rack
 
 <hr />
 
