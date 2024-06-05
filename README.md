@@ -16,6 +16,7 @@ Projects to be shared
 - Spartial sequencing data analysis
 - Cite-Seq data analysis
 - Statistical models for single cell (flow cytometry, scRNA) data analysis
+- Model fitting & validation
 - Detailed silica column-based DNA, RNA and/or Protein extraction protocol
 - Arduino projects
 - RaspberryPi projects
