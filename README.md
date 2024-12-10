@@ -1,17 +1,16 @@
 - 👋 Hi, I’m Mikias Woldetensae. 
-- 👀 I’m interested in Immunology, Bioengineering, Data Analysis & everything DIY
-- 🌱 I’m currently learning Immunology research & data analysis
-- 💞️ I’m looking to collaborate on protocol optimizations, tool development & utilizaiton, troubleshooting 
+- 👀 I’m interested in Health and Biology. More specifically, I am interested in the tools that help us learn more about those fields. 
+- 🌱 I’m currently honing my skills in Data Science. In my spare time, I'm desigining and 3D printing educational tools for Biology courses. 
 - 📫 How to reach through [Linkedin](https://www.linkedin.com/in/mikiashwt/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can whistle 7 different ways
+- ⚡ Fun fact: I can whistle 7 different ways. 
 
 # Check out my [Personal Website](https://www.mikiashwt.com/)
 
 Projects to be shared
+- Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
 - Characterization and validation of humanized mouse models.
 - Bulk RNA Sequencing data analysis
-- Single Cell RNA sequencing data analysis
 - Flow Cytometry data generation and analysis
 - Spartial sequencing data analysis
 - Cite-Seq data analysis
