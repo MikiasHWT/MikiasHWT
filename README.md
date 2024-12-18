@@ -38,13 +38,24 @@ Projects to be shared
 - :globe_with_meridians:[Personal Website](https://www.mikiashwt.com/)
 
 <details>
-<summary>Field of interests</summary>
+<summary>My interests</summary>
 
 - Machine Learning
 - Data Science
+- Cloud Computing
 - Transcriptome & Proteome Sequencing
+- Sequencing and Imaging Data
+- Flow & Mass Cytometry 
+- Virology
 - Immunology
 - Cancer Research
+- Transgenic Mouse Models
+- Protein Folding
+- Computer-Aided Design
+- 3D Printing
+- Electroplating
+- Silicone & Resin Mold Making
+- DIY Projects
  
 </details>
 
