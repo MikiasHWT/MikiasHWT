@@ -39,16 +39,6 @@ Projects to be shared
 **Field of interests**: Machine Learning, Data Science, Transcriptome & Proteome Sequencing, Immunology, Cancer Research
 
 <!-- **Curriculum Vitae**: [cv.pdf]() -->
-
-### Skills 🛠️
-- **Languages**: Python, R, SQL, 
-  - English, Tigrinya, Dutch
-- **Technical**: Single Cell Data Analysis, Image Data Analysis, Machine Learning, 3D Printing, 
-  - Immunology, Cancer Research, Virology, Genomics & Molecular Cell Biology. 
-  - Mouse Models & Colony management, DNA/RNA/Protein Extraction & Quantification, Single Cell Suspensions, 2D & 3D Cell Cultures
-  - Safety & Regulatory Lab Protocols, Lab management
-- **Tools**: VSCode, JupyterLab, R Studio, MySQL, Excel, PowerBi, Tableau, Linux, Git
-
 ### Projects 🐾
 - [x] [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
 - [x] Characterization and validation of humanized mouse models.
@@ -65,6 +55,8 @@ Projects to be shared
 - [x] 3D printing projects
 - [x] DIVA experimental template metadata-autopopulate
 
+<br/>
+
 ### Work experience 👔
 | Job Position                  | Company                        | Field                         | Work Period       |
 | ----------------------------- | ------------------------------ | ----------------------------- | ----------------- |
@@ -73,12 +65,25 @@ Projects to be shared
 | Phlebotomy                    | Bloodworks Northwest           | Blood Donation Center         | 10-2022 — 2023-04 |
 | Undergraduate Research        | Human Photonics Lab            | Cancer Research               | 09-2013 — 03-2013 |
 
+<br/>
+
+### Skills 🛠️
+- **Languages**: Python, R, SQL, 
+  - English, Tigrinya, Dutch
+- **Technical**: Single Cell Data Analysis, Image Data Analysis, Machine Learning, 3D Printing, 
+  - Immunology, Cancer Research, Virology, Genomics & Molecular Cell Biology. 
+  - Mouse Models & Colony management, DNA/RNA/Protein Extraction & Quantification, Single Cell Suspensions, 2D & 3D Cell Cultures
+  - Safety & Regulatory Lab Protocols, Lab management
+- **Tools**: VSCode, JupyterLab, R Studio, MySQL, Excel, PowerBi, Tableau, Linux, Git
+
+<br/>
 
 ### Education 🎓
 - Bachelor of Science Degree @ University of Washington in Molecular, Cellular & Developmental Biology (2011 - 2016)
   - With a minor in Mathematics. 
 - Bachelor of Arts Degree @ University of Washington in Psychology (2011 - 2016)
 
+<br/>
 <!-- 
 
 
