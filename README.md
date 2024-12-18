@@ -49,6 +49,22 @@ Projects to be shared
   - Safety & Regulatory Lab Protocols, Lab management
 - **Tools**: VSCode, JupyterLab, R Studio, MySQL, Excel, PowerBi, Tableau, Linux, Git
 
+### Projects 🐾
+- [x] [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
+- [x] Characterization and validation of humanized mouse models.
+- [x] [R](https://www.mikiashwt.com/ProjectTwo/airway_GSE52778.html): Bulk RNA Sequencing data analysis
+- [x] [R](https://www.mikiashwt.com/ProjectTwo/PostQC_OMIP095.html): Flow Cytometry data generation and analysis
+- [x] Pygame games [TLR Evade](https://github.com/MikiasHWT/Python-pygame/blob/main/TLR_Evade.py)
+- [x] [CAD 3D Printed](https://www.thingiverse.com/thing:6573903) microtube rack shortcut 
+- [x] SpaceX Landing Prediction [Model](https://github.com/MikiasHWT/ibm_cert/blob/main/SpaceX_Landing_Prediction.ipynb)
+- [ ] Spartial sequencing data analysis
+- [ ] Cite-Seq data analysis
+- [x] Detailed silica column-based DNA, RNA and/or Protein extraction protocol
+- [x] Arduino projects
+- [ ] RaspberryPi projects
+- [x] 3D printing projects
+- [x] DIVA experimental template metadata-autopopulate
+
 ### Work experience 👔
 | Job Position                  | Company                        | Field                         | Work Period       |
 | ----------------------------- | ------------------------------ | ----------------------------- | ----------------- |
@@ -62,24 +78,6 @@ Projects to be shared
 - Bachelor of Science Degree @ University of Washington in Molecular, Cellular & Developmental Biology (2011 - 2016)
   - With a minor in Mathematics. 
 - Bachelor of Arts Degree @ University of Washington in Psychology (2011 - 2016)
-
-### Projects 🐾
-Projects to be shared
-- [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
-- Characterization and validation of humanized mouse models.
-- [R](https://www.mikiashwt.com/ProjectTwo/airway_GSE52778.html): Bulk RNA Sequencing data analysis
-- [R](https://www.mikiashwt.com/ProjectTwo/PostQC_OMIP095.html): Flow Cytometry data generation and analysis
-- Spartial sequencing data analysis
-- Cite-Seq data analysis
-- Statistical models for single cell (flow cytometry, scRNA) data analysis
-- Model fitting & validation
-- Detailed silica column-based DNA, RNA and/or Protein extraction protocol
-- Arduino projects
-- RaspberryPi projects
-- Pygame games (Flappy bird, Pong)
-- 3D printing projects
-- DIVA experimental template metadata-autopopulate
-- 3D printed microtube rack
 
 <!-- 
 
