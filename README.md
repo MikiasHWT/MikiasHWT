@@ -32,11 +32,22 @@ Projects to be shared
 
 ### Hi, my name is Mikias ("Mik-yas").
 
-**Find me elsewhere**:
-[LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
-[Personal Website](https://www.mikiashwt.com/)
+**Find me elsewhere**
 
-**Field of interests**: Machine Learning, Data Science, Transcriptome & Proteome Sequencing, Immunology, Cancer Research
+- :link: [LinkedIn](https://www.linkedin.com/in/dayyass/) 
+- :globe_with_meridians:[Personal Website](https://www.mikiashwt.com/)
+
+<details>
+<summary>Field of interests</summary>
+
+- Machine Learning
+- Data Science
+- Transcriptome & Proteome Sequencing
+- Immunology
+- Cancer Research
+ 
+</details>
+
 
 <!-- **Curriculum Vitae**: [cv.pdf]() -->
 <hr/>
@@ -81,6 +92,10 @@ Projects to be shared
 - Bachelor of Arts Degree @ University of Washington in **Psychology** (2011 - 2016)
 <hr/>
 
+### Certification :scroll:
+- IBM Data Science Certificate
+ <hr/>
+ 
 <!-- 
 
 
