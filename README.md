@@ -44,18 +44,16 @@ Projects to be shared
 ### Projects 🐾
 - [x] [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
 - [x] Characterization and validation of humanized mouse models.
-- [x] [R](https://www.mikiashwt.com/ProjectTwo/airway_GSE52778.html): Bulk RNA Sequencing data analysis
-- [x] [R](https://www.mikiashwt.com/ProjectTwo/PostQC_OMIP095.html): Flow Cytometry data generation and analysis
+- [x] [R](https://www.mikiashwt.com/ProjectTwo/airway_GSE52778.html): Bulk RNA Sequencing Human Airway tissue data analysis
+- [x] [R](https://www.mikiashwt.com/ProjectTwo/PostQC_OMIP095.html): Spectral Flow Cytometry analysis across 5 mouse tissues
 - [x] Pygame games [TLR Evade](https://github.com/MikiasHWT/Python-pygame/blob/main/TLR_Evade.py)
 - [x] [CAD 3D Printed](https://www.thingiverse.com/thing:6573903) microtube rack shortcut 
 - [x] SpaceX Landing Prediction [Model](https://github.com/MikiasHWT/ibm_cert/blob/main/SpaceX_Landing_Prediction.ipynb)
-- [ ] Spartial sequencing data analysis
-- [ ] Cite-Seq data analysis
+- [x] [Seurat](https://github.com/MikiasHWT/R-Spatial-Seq/blob/main/Sequencing_Based.Rmd) Spartial RNA sequencing data analysis
+- [x] [Seurat](https://github.com/MikiasHWT/R-scRNA-Seq/blob/main/MultiModal_Practice.Rmd)Cite-Seq data analysis
 - [x] Detailed silica column-based DNA, RNA and/or Protein extraction protocol
-- [x] Arduino projects
-- [ ] RaspberryPi projects
-- [x] 3D printing projects
-- [x] DIVA experimental template metadata-autopopulate
+- [x] [Python](https://github.com/MikiasHWT/Python/blob/main/File_Sorter.ipynb) File sorter with error handling
+- [x] [Python](https://github.com/MikiasHWT/Python/blob/main/BMI_Calculator.ipynb) BMI Calculator & Healh Indicator
 <hr/>
 
 ### Work experience 👔
