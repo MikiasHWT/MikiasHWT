@@ -39,6 +39,8 @@ Projects to be shared
 **Field of interests**: Machine Learning, Data Science, Transcriptome & Proteome Sequencing, Immunology, Cancer Research
 
 <!-- **Curriculum Vitae**: [cv.pdf]() -->
+<hr/>
+
 ### Projects 🐾
 - [x] [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
 - [x] Characterization and validation of humanized mouse models.
@@ -54,8 +56,7 @@ Projects to be shared
 - [ ] RaspberryPi projects
 - [x] 3D printing projects
 - [x] DIVA experimental template metadata-autopopulate
-
-<br/>
+<hr/>
 
 ### Work experience 👔
 | Job Position                  | Company                        | Field                         | Work Period       |
@@ -64,8 +65,7 @@ Projects to be shared
 | Research Technician           | Benaroya Research Institute    | Immunology Research           | 08-2019 — 07-2024 |
 | Phlebotomy                    | Bloodworks Northwest           | Blood Donation Center         | 10-2022 — 2023-04 |
 | Undergraduate Research        | Human Photonics Lab            | Cancer Research               | 09-2013 — 03-2013 |
-
-<br/>
+<hr/>
 
 ### Skills 🛠️
 - **Languages**: Python, R, SQL, 
@@ -75,15 +75,14 @@ Projects to be shared
   - Mouse Models & Colony management, DNA/RNA/Protein Extraction & Quantification, Single Cell Suspensions, 2D & 3D Cell Cultures
   - Safety & Regulatory Lab Protocols, Lab management
 - **Tools**: VSCode, JupyterLab, R Studio, MySQL, Excel, PowerBi, Tableau, Linux, Git
-
-<br/>
+<hr/>
 
 ### Education 🎓
-- Bachelor of Science Degree @ University of Washington in Molecular, Cellular & Developmental Biology (2011 - 2016)
+- Bachelor of Science Degree @ University of Washington in **Molecular, Cellular & Developmental Biology** (2011 - 2016)
   - With a minor in Mathematics. 
-- Bachelor of Arts Degree @ University of Washington in Psychology (2011 - 2016)
+- Bachelor of Arts Degree @ University of Washington in **Psychology** (2011 - 2016)
+<hr/>
 
-<br/>
 <!-- 
 
 
