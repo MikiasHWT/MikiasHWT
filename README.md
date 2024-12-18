@@ -58,13 +58,16 @@
 <hr/>
 
 ### Skills 🛠️
-- **Languages**: Python, R, SQL, 
-  - English, Tigrinya, Dutch
-- **Technical**: Single Cell Data Analysis, Image Data Analysis, Machine Learning, 3D Printing, 
-  - Immunology, Cancer Research, Virology, Genomics & Molecular Cell Biology. 
-  - Mouse Models & Colony management, DNA/RNA/Protein Extraction & Quantification, Single Cell Suspensions, 2D & 3D Cell Cultures
-  - Safety & Regulatory Lab Protocols, Lab management
-- **Tools**: VSCode, JupyterLab, R Studio, MySQL, Excel, PowerBi, Tableau, Linux, Git
+- **Languages**:
+  - Python | R | SQL, 
+  - English | Tigrinya | Dutch
+- **Technical**:
+  - Single Cell Data Analysis | Image Data Analysis | Machine Learning | 3D Printing
+  - Immunology | Cancer Research | Virology | Genomics & Molecular Cell Biology 
+  - Mouse Models & Colony management | DNA/RNA/Protein Extraction & Quantification | Single Cell Suspensions | 2D & 3D Cell Cultures
+  - Safety & Regulatory Lab Protocols | Lab management
+- **Tools**:
+  - VSCode | JupyterLab | R Studio | MySQL | Excel | PowerBi | Tableau | Linux | Git
 <hr/>
 
 ### Education 🎓
