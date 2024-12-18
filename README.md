@@ -3,7 +3,7 @@
 **Find me elsewhere**
 
 - :link: [LinkedIn](https://www.linkedin.com/in/dayyass/) 
-- :globe_with_meridians:[Personal Website](https://www.mikiashwt.com/)
+- :globe_with_meridians: [Personal Website](https://www.mikiashwt.com/)
 
 <details>
 <summary>My interests</summary>
