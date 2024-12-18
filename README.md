@@ -1,35 +1,3 @@
-<!--
-
-- 👋 Hi, I’m Mikias Woldetensae. 
-- 👀 I’m interested in Health and Biology. More specifically, I am interested in the tools that help us learn more about those fields. 
-- 🌱 I’m currently honing my skills in Data Science. In my spare time, I'm desigining and 3D printing educational tools for Biology courses. 
-- 📫 How to reach through [Linkedin](https://www.linkedin.com/in/mikiashwt/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can whistle 7 different ways. 
-
-# Check out my [Personal Website](https://www.mikiashwt.com/)
-
-Projects to be shared
-- Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
-- Characterization and validation of humanized mouse models.
-- Bulk RNA Sequencing data analysis
-- Flow Cytometry data generation and analysis
-- Spartial sequencing data analysis
-- Cite-Seq data analysis
-- Statistical models for single cell (flow cytometry, scRNA) data analysis
-- Model fitting & validation
-- Detailed silica column-based DNA, RNA and/or Protein extraction protocol
-- Arduino projects
-- RaspberryPi projects
-- Pygame games (Flappy bird, Pong)
-- 3D printing projects
-- DIVA experimental template metadata-autopopulate
-- 3D printed microtube rack
-
-<hr />
-
--->
-
 ### Hi, my name is Mikias ("Mik-yas").
 
 **Find me elsewhere**
@@ -59,8 +27,6 @@ Projects to be shared
  
 </details>
 
-
-<!-- **Curriculum Vitae**: [cv.pdf]() -->
 <hr/>
 
 ### Projects 🐾
@@ -104,31 +70,18 @@ Projects to be shared
 <hr/>
 
 ### Certification :scroll:
-- IBM Data Science Certificate
- <hr/>
- 
-<!-- 
-
-
-### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
-  
-
-### Conference participation 📈
-- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019) 
-
+- IBM Data Science Certificate (2024)
+<hr/>
 
 ### Achievements 🏆
-- Key contributor to [GigaChat](https://habr.com/ru/companies/sberbank/articles/730108/): Russian [most advanced](https://habr.com/ru/companies/sberdevices/articles/790470/) LLM
-- 500+ stars on GitHub and [10 packages](https://pypi.org/user/dayyass/) in **PyPI** with [38k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
+- Benaroya Research Institute Inaugural Safety Award (2024)
+<hr/>
 
--->
+### Conference participation 📈
+- SACNAS
+- LSAMP
+- UW GenOM
+<hr/>
 
 <!-- Github Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
@@ -154,8 +107,3 @@ Projects to be shared
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiashwt&" alt="mikiashwt" />
 </p>
 
-
-<!---
-MikiasHWT/MikiasHWT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
