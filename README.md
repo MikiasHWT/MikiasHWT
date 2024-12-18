@@ -42,6 +42,10 @@
 - [x] Detailed silica column-based DNA, RNA and/or Protein extraction protocol
 - [x] [Python](https://github.com/MikiasHWT/Python/blob/main/File_Sorter.ipynb) File sorter with error handling
 - [x] [Python](https://github.com/MikiasHWT/Python/blob/main/BMI_Calculator.ipynb) BMI Calculator & Healh Indicator
+- [ ] Nextflow RNA Sequencing Pipeline
+- [ ] AWS EC2 Instance based RNA Sequecing Data Integration
+- [ ] AWS S3 Hosting Of New Portfolio Website
+- [ ] Amazon SageMaker Machine Learning Models
 <hr/>
 
 ### Work experience 👔
