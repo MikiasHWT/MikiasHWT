@@ -61,14 +61,14 @@
 <hr/>
 
 ### Work experience 👔
-| Job Position                  | Company                        | Field                         | Work Period       |
-| ----------------------------- | ------------------------------ | ----------------------------- | ----------------- |
-| Research Associate            | Fred Hutchinson Cancer Center  | Cancer Research               | 07-2024 — 10-2024 |
-| Research Technician           | Benaroya Research Institute    | Immunology Research           | 08-2019 — 07-2024 |
-| Phlebotomy                    | Bloodworks Northwest           | Blood Donation Center         | 06-2017 — 08-2019 |
-| BioEthics Instructor          | UW GenOM, ALVA & Clean Energy  | STEM Summer Program           | 06-2016 — 09-2016 |
-| Undergraduate Research        | Human Photonics Lab            | Cancer Research               | 09-2011 — 03-2013 |
-| Research Intern               | Ed Kelly Lab UW                | Biochemistry & Metabolism     | 06-2011 — 09-2011 |
+| Job Position             | Company                        | Field                         | Work Period       |
+| ------------------------ | ------------------------------ | ----------------------------- | ----------------- |
+| Research Associate       | Fred Hutchinson Cancer Center  | Cancer Research               | 07-2024 — 10-2024 |
+| Research Technician      | Benaroya Research Institute    | Immunology Research           | 08-2019 — 07-2024 |
+| Phlebotomy               | Bloodworks Northwest           | Blood Donation Center         | 06-2017 — 08-2019 |
+| BioEthics Instructor     | UW GenOM, ALVA & Clean Energy  | STEM Summer Program           | 06-2016 — 09-2016 |
+| Undergraduate Research   | Human Photonics Lab            | Cancer Research               | 09-2011 — 03-2013 |
+| Research Intern          | Ed Kelly Lab UW                | Biochemistry & Metabolism     | 06-2011 — 09-2011 |
 <hr/>
 
 ### Skills 🛠️
