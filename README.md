@@ -78,31 +78,31 @@
 `English` | `Tigrinya` | `Dutch`
 
 #### **Computational Analysis**  
-`Single Cell Data Analysis` | `Image Data Analysis` | `Machine Learning`  
+`Single Cell Data Analysis` | `Image Data Analysis` | `Machine Learning`        
 `Clustering Algorithms` | `Dimensionality Reduction` | `Statistical Modeling`
 
 #### **Visualization and Reporting**  
-`ggplot2` | `matplotlib` | `Seaborn` | `Plotly` | 
+`ggplot2` | `matplotlib` | `Seaborn` | `Plotly`       
 `Power BI` | `Tableau` | `Excel` | `Graphpad Prism`
 
 #### **Tools and Platforms**  
-`VSCode` | `JupyterLab` | `R Studio` | `Linux` | `Git` | `Conda` 
-`AWS` | `Azure` | `GitHub`
-`FlowJo` | `ImageJ/Fiji` | `DIVA` | `Spectroflo` | 
+`VSCode` | `JupyterLab` | `R Studio` | `Linux` | `Git` | `Conda`       
+`AWS` | `Azure` | `GitHub`         
+`FlowJo` | `ImageJ/Fiji` | `DIVA` | `Spectroflo` 
 
 #### **Biological and Experimental Techniques**  
-`Immunology` | `Cancer Research` | `Virology` | `Genomics & Molecular Cell Biology`
-`Flow Cytometry` | `Mass Cytometry` | `Confocal Microscopy`
-`ELISA/ELISpot` | `Western Blot` | `Cell Assays` | `PCR/qPCR/RTqPCR`
-`Mouse Models & Colony Management` | `DNA/RNA/Protein Extraction & Quantification`  
-`Single Cell Suspensions` | `2D & 3D Cell Cultures`
+`Immunology` | `Cancer Research` | `Virology` | `Genomics & Molecular Cell Biology`    
+`Flow Cytometry` | `Mass Cytometry` | `Confocal Microscopy`    
+`ELISA/ELISpot` | `Western Blot` | `Cell Assays` | `PCR/qPCR/RTqPCR`       
+`Mouse Models & Colony Management` | `DNA/RNA/Protein Extraction & Quantification`     
+`Single Cell Suspensions` | `2D & 3D Cell Cultures`    
 
 #### **Lab Operations and Management**  
 `Safety & Regulatory Protocols` | `Lab Management`  
 `Mentorship & Training` | `Protocol Optimization`
 
 #### **3D Printing and Design**  
-`CAD Design` | `FDM Printing` | `Resin Printing` | `G-code Scripting`
+`CAD Design` | `FDM Printing` | `Resin Printing` | `G-code Scripting`  
 `Arduino` | `Raspberry PI` | `Circuit Design` | `Soldering` 
 
 #### **Ongoing Learning**  
