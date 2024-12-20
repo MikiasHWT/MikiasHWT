@@ -13,24 +13,36 @@
 - Cloud Computing
 - Transcriptome & Proteome Sequencing
 - Sequencing and Imaging Data
-- Flow & Mass Cytometry 
+- Flow & Mass Cytometry
+- Protocol Design & Optimization
 - Virology
 - Immunology
 - Cancer Research
 - Transgenic Mouse Models
+- Research Ethics, Safety & Regulations
 - Protein Folding
 - Computer-Aided Design
 - 3D Printing
+- Microelectronics (Arduino)
+- Microcomputers (Raspberry Pi)
 - Electroplating
 - Silicone & Resin Mold Making
-- DIY Projects
+- Phone/Vehicle Repair
+- General DIY Projects
+- Cooking
+- Gardening
  
 </details>
 
 <hr/>
 
 ### Projects 🐾
-- [x] [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis. 
+- [x] [Python](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/scRNA_Lethal_Covid19_Analysis.ipynb): Lethal COVID-19 single nuclui RNA sequencing data anlysis.
+     - [x] [Quality Control](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/1.Quality_Control.ipynb)
+     - [x] [Normalization](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/2.Normalization.ipynb)
+     - [x] [Feature Selection](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/3.Feature_Selection.ipynb)
+     - [x] [Dimensionality Reduction]()
+     - [ ] [Cell Annotation]()
 - [x] Characterization and validation of humanized mouse models.
 - [x] [R](https://www.mikiashwt.com/ProjectTwo/airway_GSE52778.html): Bulk RNA Sequencing Human Airway tissue data analysis
 - [x] [R](https://www.mikiashwt.com/ProjectTwo/PostQC_OMIP095.html): Spectral Flow Cytometry analysis across 5 mouse tissues
@@ -53,64 +65,106 @@
 | ----------------------------- | ------------------------------ | ----------------------------- | ----------------- |
 | Research Associate            | Fred Hutchinson Cancer Center  | Cancer Research               | 07-2024 — 10-2024 |
 | Research Technician           | Benaroya Research Institute    | Immunology Research           | 08-2019 — 07-2024 |
-| Phlebotomy                    | Bloodworks Northwest           | Blood Donation Center         | 10-2022 — 2023-04 |
-| Undergraduate Research        | Human Photonics Lab            | Cancer Research               | 09-2013 — 03-2013 |
+| Phlebotomy                    | Bloodworks Northwest           | Blood Donation Center         | 06-2017 — 08-2019 |
+| BioEthics Instructor          | UW GenOM, ALVA & Clean Energy  | STEM Summer Program           | 06-2016 — 09-2016 |
+| Undergraduate Research        | Human Photonics Lab            | Cancer Research               | 09-2011 — 03-2013 |
+| Research Intern               | Ed Kelly Lab UW                | Biochemistry & Metabolism     | 06-2011 — 09-2011 |
 <hr/>
 
 ### Skills 🛠️
-- **Languages**:
-  - Python | R | SQL, 
-  - English | Tigrinya | Dutch
-- **Technical**:
-  - Single Cell Data Analysis | Image Data Analysis | Machine Learning | 3D Printing
-  - Immunology | Cancer Research | Virology | Genomics & Molecular Cell Biology 
-  - Mouse Models & Colony management | DNA/RNA/Protein Extraction & Quantification | Single Cell Suspensions | 2D & 3D Cell Cultures
-  - Safety & Regulatory Lab Protocols | Lab management
-- **Tools**:
-  - VSCode | JupyterLab | R Studio | MySQL | Excel | PowerBi | Tableau | Linux | Git
+
+#### **Languages**  
+`Python` | `R` | `SQL` | `Bash` | `Powershell`  
+`English` | `Tigrinya` | `Dutch`
+
+#### **Computational Analysis**  
+`Single Cell Data Analysis` | `Image Data Analysis` | `Machine Learning`  
+`Clustering Algorithms` | `Dimensionality Reduction` | `Statistical Modeling`
+
+#### **Visualization and Reporting**  
+`ggplot2` | `matplotlib` | `Seaborn` | `Plotly` | 
+`Power BI` | `Tableau` | `Excel` | `Graphpad Prism`
+
+#### **Tools and Platforms**  
+`VSCode` | `JupyterLab` | `R Studio` | `Linux` | `Git` | `Conda` 
+`AWS` | `Azure` | `GitHub`
+`FlowJo` | `ImageJ/Fiji` | `DIVA` | `Spectroflo` | 
+
+#### **Biological and Experimental Techniques**  
+`Immunology` | `Cancer Research` | `Virology` | `Genomics & Molecular Cell Biology`
+`Flow Cytometry` | `Mass Cytometry` | `Confocal Microscopy`
+`ELISA/ELISpot` | `Western Blot` | `Cell Assays` | `PCR/qPCR/RTqPCR`
+`Mouse Models & Colony Management` | `DNA/RNA/Protein Extraction & Quantification`  
+`Single Cell Suspensions` | `2D & 3D Cell Cultures`
+
+#### **Lab Operations and Management**  
+`Safety & Regulatory Protocols` | `Lab Management`  
+`Mentorship & Training` | `Protocol Optimization`
+
+#### **3D Printing and Design**  
+`CAD Design` | `FDM Printing` | `Resin Printing` | `G-code Scripting`
+
+#### **Ongoing Learning**  
+- `AWS Cloud Practitioner (in progress)`  
+- [`Hands-On Machine Learning with Scikit-Learn & TensorFlow - Aurelien Geron`](https://github.com/ageron/handson-ml3)
+- [`Tidy Modeling with R - Max Kuhn & Julia Silge`](https://github.com/tidymodels/TMwR)
 <hr/>
+
 
 ### Education 🎓
-- Bachelor of Science Degree @ University of Washington in **Molecular, Cellular & Developmental Biology** (2011 - 2016)
-  - With a minor in Mathematics. 
-- Bachelor of Arts Degree @ University of Washington in **Psychology** (2011 - 2016)
+- Bachelor of Science, University of Washington. (2011 - 2016)
+   - **Molecular, Cellular & Developmental Biology** 
+   - **Mathematics** minor 
+- Bachelor of Arts, University of Washington. (2011 - 2016)
+   - **Psychology**
 <hr/>
 
-### Certification :scroll:
+### Certifications :scroll:
 - IBM Data Science Certificate (2024)
+<hr/>
+
+### Publications :books:
+- Mikias H. Woldetensae, Mark R. Kirshenbaum, Greg M. Kramer, Liang Zhang, Eric
+J. Seibel, "Fluorescence image-guided photodynamic therapy of cancer cells using a
+scanning fiber endoscope," Proc. SPIE 8576, Optical Fibers and Sensors for Medical
+Diagnostics and Treatment Applications XIII, 85760L (20 March 2013);
 <hr/>
 
 ### Achievements 🏆
 - Benaroya Research Institute Inaugural Safety Award (2024)
+- "Honorable Mention": LSAMP 2012.
+- "Best Oral Presentation": UW GenOM, 2011.
+- 2nd Place: Northwest Association for Biomedical Research (NWABR) Student BioExpo, 2011.
+   - Molecular Modeling Category. “The Duo That Painted Tumors.”
 <hr/>
 
 ### Conference participation 📈
-- SACNAS
-- LSAMP
-- UW GenOM
+- Optical Fibers and Sensors for Medical Diagnostics and Treatment Applications XIII, 2013.
+- UW Undergraduate Symposium, 2013.
+- UW Undergraduate Symposium, 2012.
+- LSAMP Conference; Oregon State University, 2012.
+- UW GenOM Symposium, 2011.
+- NWABR Student BioExpo; Bellevue, 2011.
 <hr/>
 
+<!-- Profile Views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mikiashwt&label=Profile%20views&color=0e75b6&style=flat"
+                    alt="mikiashwt" /></p>
+                
 <!-- Github Trophies -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                        src="https://github-profile-trophy.vercel.app/?username=mikiashwt&theme=onedark"
-                        alt="mikiashwt" /></a> </p>
-
-
-<!-- View counter -->
-<p align="center"> <img
-                src="https://komarev.com/ghpvc/?username=mikiashwt&label=Profile%20views&color=0e75b6&style=flat"
-                alt="mikiashwt" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=mikiashwt&theme=onedark"
+  alt="mikiashwt" /></a></p>
 
 <!-- Github most used languages-->
-<p align="center"><img
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=mikiashwt&show_icons=true&locale=en&layout=compact"
-                alt="mikiashwt" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikiashwt&show_icons=true&locale=en&layout=compact"
+                   alt="mikiashwt" /></p>
 
 <!-- Github Stats -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikiashwt&show_icons=true&locale=en"
-                alt="mikiashwt" />
-</p>
+                   alt="mikiashwt" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiashwt&" alt="mikiashwt" />
-</p>
+<!-- Streak Counts -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikiashwt&" 
+                   alt="mikiashwt" /></p>
 
