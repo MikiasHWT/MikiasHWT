@@ -103,6 +103,7 @@
 
 #### **3D Printing and Design**  
 `CAD Design` | `FDM Printing` | `Resin Printing` | `G-code Scripting`
+`Arduino` | `Raspberry PI` | `Circuit Design` | `Soldering` 
 
 #### **Ongoing Learning**  
 - `AWS Cloud Practitioner (in progress)`  
