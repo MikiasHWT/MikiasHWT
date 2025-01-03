@@ -43,7 +43,7 @@
      - [x] [**Normalization**](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/2.Normalization.ipynb)
      - [x] [**Feature Selection**](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/3.Feature_Selection.ipynb)
      - [x] [**Dimensionality Reduction**](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/4.Dimensionality_Reduction.ipynb)
-     - [ ] **Integration** 🚧
+     - [ ] [**Integration**](https://github.com/MikiasHWT/scRNA_Lethal_Covid19_Analysis/blob/main/5.Integration.ipynb) 🚧
      - [ ] **Quality Assessment** 🚧
      - [ ] **Cell Annotation** 🚧
      - [ ] **Differential Gene Expression** 🚧
