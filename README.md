@@ -1,5 +1,7 @@
 ### Hi, my name is Mikias ("Mik-yas").
 
+#### I solve problems and optimize solutions by utilizing the best tools for each unique task. My dedication to building a broad skill set reflects my belief that adaptability is the foundation of impactful problem-solving.
+
 #### **Find me elsewhere**
 
 - :link: [LinkedIn](https://www.linkedin.com/in/dayyass/) 
