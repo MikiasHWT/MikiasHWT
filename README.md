@@ -8,7 +8,7 @@
 - :globe_with_meridians: [Personal Website](https://www.mikiashwt.com/)
 
 <details>
-<summary>**My interests**</summary>
+<summary> My interests </summary>
 
 - Machine Learning
 - Data Science
